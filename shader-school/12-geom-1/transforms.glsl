@@ -7,6 +7,6 @@ uniform mat4 model, view, projection;
 void main() {
 
   //TODO: Apply the model-view-projection matrix to `position`
-
-  gl_Position = vec4(position, 1);
+  vec4 vertex = vec4(position, 1.0);
+  gl_Position = projection * view * model * vertex;
 }
