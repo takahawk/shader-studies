@@ -64,7 +64,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
         col = col2;
 
     // hour arrow
-    col2 = line(rotate(uv, mod(iTime / 3600., 60.) * radians(360. / 60.)), 
+    col2 = line(rotate(uv, mod(iTime / 3600., 12.) * radians(360. / 12.)), 
                 vec2(0., 0.), vec2(0., 0.4), 0.02) * goldColor3;
     if (length(col2) > 0.0)
         col = col2;
