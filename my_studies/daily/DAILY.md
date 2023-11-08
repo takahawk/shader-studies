@@ -5,3 +5,5 @@
 ## Study 0002 "Flower of Life"
 [ShaderToy](https://www.shadertoy.com/view/DtdyRS)
 ![Flower of Life](0002_flower_of_life.gif)
+## Study 0003 "Domain repetition by angle"
+[ShaderToy](https://www.shadertoy.com/view/Dtdyz2)
