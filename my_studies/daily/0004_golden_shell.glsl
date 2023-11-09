@@ -22,11 +22,11 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     uv -= 0.5;
     uv.x *= iResolution.x/iResolution.y;
     
-    uv /= 1. + mod(iTime, pow(PHI, 4.) - 1.);
+    uv /= pow(PHI, mod(iTime, 4.));
 
     vec3 col = vec3(1., 1., 0.);
     
-    float a = 4., b = 4.;
+    float a = 8., b = 8.;
     int iterations = 64;
     
     float mask = 0.;
