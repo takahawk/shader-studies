@@ -7,3 +7,5 @@
 ![Flower of Life](0002_flower_of_life.gif)
 ## Study 0003 "Domain repetition by angle"
 [ShaderToy](https://www.shadertoy.com/view/Dtdyz2)
+## Study 0004 "Golden shell"
+[ShaderToy](https://www.shadertoy.com/view/clcyRs)
