@@ -9,3 +9,5 @@
 [ShaderToy](https://www.shadertoy.com/view/Dtdyz2)
 ## Study 0004 "Golden shell"
 [ShaderToy](https://www.shadertoy.com/view/clcyRs)
+## Study 0005 "Cube projection"
+[ShaderToy](https://www.shadertoy.com/view/dl3yW2)
