@@ -11,3 +11,5 @@
 [ShaderToy](https://www.shadertoy.com/view/clcyRs)
 ## Study 0005 "Cube projection"
 [ShaderToy](https://www.shadertoy.com/view/dl3yW2)
+## Study 0006 "Pulsar effect"
+[ShaderToy](https://www.shadertoy.com/view/mtdcW2)
