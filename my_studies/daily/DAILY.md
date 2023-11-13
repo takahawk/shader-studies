@@ -13,3 +13,5 @@
 [ShaderToy](https://www.shadertoy.com/view/mtdcW2)
 ## Study 0007 "Pulsar effect (2)"
 [ShaderToy](https://www.shadertoy.com/view/mlcyDs)
+## Study 0008 "Random kaleidoscope"
+[ShaderToy](https://www.shadertoy.com/view/DlKczR)
