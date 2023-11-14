@@ -15,3 +15,5 @@
 [ShaderToy](https://www.shadertoy.com/view/mlcyDs)
 ## Study 0008 "Random kaleidoscope"
 [ShaderToy](https://www.shadertoy.com/view/DlKczR)
+## Study 0009 "Cross"
+[ShaderToy](https://www.shadertoy.com/view/DlVyRD)
