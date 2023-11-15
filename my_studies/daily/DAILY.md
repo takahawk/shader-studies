@@ -17,3 +17,5 @@
 [ShaderToy](https://www.shadertoy.com/view/DlKczR)
 ## Study 0009 "Cross"
 [ShaderToy](https://www.shadertoy.com/view/DlVyRD)
+## Study 0010 "Futhark: ætt 1"
+[ShaderToy](https://www.shadertoy.com/view/DlKcRm)
