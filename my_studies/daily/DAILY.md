@@ -19,3 +19,5 @@
 [ShaderToy](https://www.shadertoy.com/view/DlVyRD)
 ## Study 0010 "Futhark: ætt 1"
 [ShaderToy](https://www.shadertoy.com/view/DlKcRm)
+## Study 0011 "Futhark: ætt 2"
+[ShaderToy](https://www.shadertoy.com/view/DlyyW1)
