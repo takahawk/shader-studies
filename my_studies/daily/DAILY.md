@@ -21,3 +21,5 @@
 [ShaderToy](https://www.shadertoy.com/view/DlKcRm)
 ## Study 0011 "Futhark: ætt 2"
 [ShaderToy](https://www.shadertoy.com/view/DlyyW1)
+## Study 0012 "Futhark: 3 runes"
+[ShaderToy](https://www.shadertoy.com/view/dlVyDW)
