@@ -23,3 +23,5 @@
 [ShaderToy](https://www.shadertoy.com/view/DlyyW1)
 ## Study 0012 "Futhark: 3 runes"
 [ShaderToy](https://www.shadertoy.com/view/dlVyDW)
+## Study 0013 "Happy bday ∄"
+[ShaderToy](https://www.shadertoy.com/view/clKyRG)
