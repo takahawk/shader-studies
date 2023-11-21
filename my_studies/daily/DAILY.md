@@ -25,3 +25,5 @@
 [ShaderToy](https://www.shadertoy.com/view/dlVyDW)
 ## Study 0013 "Happy bday ∄"
 [ShaderToy](https://www.shadertoy.com/view/clKyRG)
+## Study 0014 "Sine eyelid"
+[ShaderToy](https://www.shadertoy.com/view/DtyyDy)
