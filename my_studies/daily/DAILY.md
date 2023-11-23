@@ -29,3 +29,5 @@
 [ShaderToy](https://www.shadertoy.com/view/DtyyDy)
 ## Study 0015 "Heart of the Universe"
 [ShaderToy](https://www.shadertoy.com/view/DlVyDV)
+## Study 0016 "Sine flower"
+[ShaderToy](https://www.shadertoy.com/view/DlycWd)
