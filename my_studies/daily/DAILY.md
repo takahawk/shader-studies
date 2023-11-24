@@ -31,3 +31,5 @@
 [ShaderToy](https://www.shadertoy.com/view/DlVyDV)
 ## Study 0016 "Sine flower"
 [ShaderToy](https://www.shadertoy.com/view/DlycWd)
+## Study 0017 "Projection to circle"
+[ShaderToy](https://www.shadertoy.com/view/mtcBzn)
