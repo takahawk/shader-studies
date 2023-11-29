@@ -33,3 +33,7 @@
 [ShaderToy](https://www.shadertoy.com/view/DlycWd)
 ## Study 0017 "Projection to circle"
 [ShaderToy](https://www.shadertoy.com/view/mtcBzn)
+## Study 0018 "Color number system"
+[ShaderToy](https://www.shadertoy.com/view/dtcBz8)
+## Study 0019 "Projection from circle"
+[ShaderToy](https://www.shadertoy.com/view/dltBDN)
