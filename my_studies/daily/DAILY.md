@@ -37,3 +37,5 @@
 [ShaderToy](https://www.shadertoy.com/view/dtcBz8)
 ## Study 0019 "Projection from circle"
 [ShaderToy](https://www.shadertoy.com/view/dltBDN)
+## Study 0020 "Manderlbrot set"
+[ShaderToy](https://www.shadertoy.com/view/ctVfzG)
